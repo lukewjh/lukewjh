@@ -2,6 +2,8 @@
 ![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ![nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 
 <!--
 **lukewjh/lukewjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
