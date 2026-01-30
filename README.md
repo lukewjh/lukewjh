@@ -3,7 +3,7 @@
 
 ![nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
 <!--
 **lukewjh/lukewjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
