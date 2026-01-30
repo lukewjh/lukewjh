@@ -7,7 +7,7 @@
 ![TypeScript](...)
 
 ### Frameworks
-![Spring](https://img.shields.io/badge/spring-green?logo=spring)
+![Spring](https://img.shields.io/badge/spring-green?logo=spring&logoColor=f5f5f5)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 
 ### Platform
