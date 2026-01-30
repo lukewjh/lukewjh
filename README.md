@@ -1,10 +1,7 @@
 ## Hi there 👋
 ![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
-![China](https://img.shields.io/badge/airchina-red?logo=airchina)
-![Css](https://img.shields.io/badge/css-#663399?logo=css)
-![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
-![Web](https://img.shields.io/badge/Web-4285F4?logo=google-chrome)
+![nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 
 <!--
 **lukewjh/lukewjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
