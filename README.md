@@ -2,7 +2,11 @@
 ![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ![nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,swift,ts,js,nodejs,apple" />
+</p>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
 <!--
