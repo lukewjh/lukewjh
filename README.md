@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
