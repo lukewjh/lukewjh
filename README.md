@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
