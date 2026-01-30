@@ -1,4 +1,11 @@
 ## Hi there 👋
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift)
+![Web](https://img.shields.io/badge/Web-4285F4?logo=google-chrome)
 
 <!--
 **lukewjh/lukewjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
