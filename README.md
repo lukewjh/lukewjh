@@ -1,13 +1,18 @@
 ## Hi there 👋
 ![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
-![nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,swift,ts,js,nodejs,apple" />
-</p>
+### Languages
+![Java](...)
+![Swift](...)
+![TypeScript](...)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+### Frameworks
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+
+### Platform
+![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
+
 
 <!--
 **lukewjh/lukewjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
