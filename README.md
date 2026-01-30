@@ -2,7 +2,7 @@
 ![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Css](https://img.shields.io/badge/JavaScript-yellow?logo=css)
+![Css](https://img.shields.io/badge/css-#663399?logo=css)
 ![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
 ![Web](https://img.shields.io/badge/Web-4285F4?logo=google-chrome)
 
