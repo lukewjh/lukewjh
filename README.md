@@ -1,11 +1,9 @@
 ## Hi there 👋
-![Java](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Css](https://img.shields.io/badge/JavaScript-yellow?logo=css)
 ![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift)
 ![Web](https://img.shields.io/badge/Web-4285F4?logo=google-chrome)
 
 <!--
